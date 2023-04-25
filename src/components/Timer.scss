@@ -1,0 +1,18 @@
+.timer {
+  border: 0.4375rem solid #53919b;
+  margin: 1.25rem auto 0.625rem auto;
+  width: 16.875rem;
+  border-radius: 1.25rem;
+  position: relative;
+  padding: 0.625rem;
+
+  .timer-wrapper {
+    #timer-label {
+      font-size: 1.875rem;
+    }
+  
+    #time-left {
+      font-size: 5rem;
+    }
+  }
+}

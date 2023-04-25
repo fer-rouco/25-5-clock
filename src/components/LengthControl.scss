@@ -1,0 +1,21 @@
+.length-control {
+  display: inline-block;
+  margin: 1rem;
+}
+
+.buttons-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center; 
+
+  .button .fa {
+    font-weight: bold;
+  }
+}
+
+.label {
+  margin-bottom: 0.625rem;
+  font-size: 1.875rem;
+}

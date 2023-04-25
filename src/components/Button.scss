@@ -1,0 +1,23 @@
+.button {
+  background: none;
+  outline: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+
+  &:disabled {
+    opacity: 0.25;
+    cursor: auto;
+    &:hover, &:active {
+      color: white;
+    }
+  }
+
+  &:hover {
+    color: #bae0e7;
+  }
+
+  &:active {
+    color: #7dbdc7;
+  }
+}
