@@ -7,6 +7,7 @@ Available live [here](https://fernet87.github.io/25-5-clock/)
 ## About the Project
 
 ![Top Page Screenshot](./src/assets/screenshot.png)
+
 Project specifications made by [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-25--5-clock).
 
 This is a 25-5 clock app where you can specify a break and a session time.
