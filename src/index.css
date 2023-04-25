@@ -57,3 +57,21 @@ footer .link {
   background-color: #4aa3a3;
   background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(.5, rgba(255, 255, 255, .2)), color-stop(.5, transparent), to(transparent));
 }
+
+@media screen and (max-width: 991.98px) {
+  * {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 767.98px) {
+  * {
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 575.98px) {
+  * {
+    font-size: 10px;
+  }
+}
