@@ -14,6 +14,9 @@ This is a React based app to Build the 25 + 5 Clock for [freeCodeCamp](https://w
 In this clock you can specify a break and a session time.
 After doing that you can start and stop the clock and reset the timer to the default values.
 
+---
+Read more about [pomodoro (25+5) clock](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
 ## **Technologies used for this project.**
 
 [<img src='https://img.icons8.com/color/96/000000/html-5--v1.png' alt='HTML' width='50px'/>](https://html.spec.whatwg.org/multipage/) [<img src='https://img.icons8.com/color/96/000000/css3.png' alt='CSS' width='50px'/>](https://www.css3.com/) [<img src='https://img.icons8.com/color/96/000000/javascript--v1.png' alt='JS' width='50px'/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -32,6 +35,3 @@ Start the web server
 ```
 npm start
 ```
-
----
-Read more about [pomodoro (25+5) clock](https://en.wikipedia.org/wiki/Pomodoro_Technique)
