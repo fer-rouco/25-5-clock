@@ -6,7 +6,9 @@ Available live [here](https://fernet87.github.io/25-5-clock/)
 
 ## About the Project
 
-![Top Page Screenshot](./src/assets/screenshot.png)
+<p align="center">
+  <img src="./src/assets/screenshot.png" />
+</p>
 
 This is a React based app to Build the 25 + 5 Clock for [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-25--5-clock) Front End Development Libraries project.
 In this clock you can specify a break and a session time.
