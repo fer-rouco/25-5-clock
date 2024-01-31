@@ -2,7 +2,7 @@
 
 > App to apply the Pomodoro Technique to your daily tasks
 
-Available live [here](https://fernet87.github.io/25-5-clock/) 
+Available live [here](https://fer-rouco.github.io/25-5-clock/) 
 
 ## About the Project
 
